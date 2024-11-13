@@ -1,6 +1,6 @@
 **Independent Project: [Elastic SIEM Implementation]**
 
-- Tools Used: Elastic Cloud, Kali Linux Virtual Machine
+- *Tools Used: Elastic Cloud, Kali Linux Virtual Machine*
   
   ◦ Set up and configured an Elastic SIEM in a home lab environment, configured elastic agents for log collection, and forwarded data to the SIEM for monitoring
 
