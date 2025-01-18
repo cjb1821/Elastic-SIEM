@@ -1,5 +1,5 @@
 <h1>Elastic SIEM</h1>
-**Independent Project: [Elastic SIEM Implementation]**
+Independent Project: [Elastic SIEM Implementation]
 
 - *Tools Used: Elastic Cloud, Kali Linux Virtual Machine*
   
